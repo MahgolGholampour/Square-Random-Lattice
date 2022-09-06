@@ -2,7 +2,7 @@
 //  main.cpp
 //  l*l lattice
 //
-//  Created by Mahgol on 6/14/22.
+//  Created by Mahgol Gholampour on 6/14/22.
 //
 
 #include <iostream>
